@@ -2,12 +2,14 @@
 
 ### 1.准备工作
 
-请在服务器自行安装以下软件或直接安装宝塔
+请在服务器直接安装宝塔用宝塔来安装环境
+- 宝塔安装命令[https://www.bt.cn/new/download.html](https://www.bt.cn/new/download.html)
+- 进入面板->【软件商店】
+- 安装 nginx 选择 1.18 版本
+- 安装 mysql 选择 8.x 或 5.7 以上版本
+- 安装 PM2 管理器, 进入管理器 Node 版本选择 v14.18.0, 作者开发是 v14.18.0, 然后点击切换版本
+- 安装 redis 最新即可
 
-- 安装 nodejs-v16.x.x
-- 安装 mysql-v8.x 或 5.7 以上版本
-- 安装 redis-v5.x
-- 安装 nginx-v1.18.x
 
 ### 2.克隆源代码到服务器
 
