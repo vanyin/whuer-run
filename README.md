@@ -19,7 +19,7 @@
 
 - [查看开发文档](https://gitee.com/landalfyao/ddapp/blob/master/DEV.md)
 - [配置参考](https://gitee.com/landalfyao/ddrun/wikis/pages?sort_id=5937464&doc_id=403865)
-- [部署教程](https://gitee.com/landalfyao/ddapp/wikis/%E5%AE%9D%E5%A1%94%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B?sort_id=8246481)
+- [部署教程](https://gitee.com/landalfyao/ddapp/wikis/pages)
 
 ## 小程序页面
 
