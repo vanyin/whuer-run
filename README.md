@@ -8,6 +8,7 @@
 本项目后端采用 midway3.0，后台采用 nuxt2.x,小程序采用 uniapp 实现的一套跑腿下单接单系统。
 
 #### 主要功能
+- 官网[https://www.malimawai.com](https://www.malimawai.com)
 
 跑腿、快递代取、陪练陪玩、软件安装、申请接单、用户下单、提现、物品重量计算等。
 
