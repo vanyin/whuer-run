@@ -12,10 +12,6 @@
 
 跑腿、快递代取、陪练陪玩、软件安装、申请接单、用户下单、提现、物品重量计算等。
 
-## 体验或交流
-
-![qr](https://foruda.gitee.com/images/1679233769591308631/c915cd3b_11018109.jpeg "简约弥散风微信公众号首图封面.jpg")
-
 ## 开始开发
 
 - [查看开发文档](https://gitee.com/landalfyao/ddapp/blob/master/DEV.md)
